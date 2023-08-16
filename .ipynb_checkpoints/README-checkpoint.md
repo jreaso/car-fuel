@@ -22,9 +22,12 @@ _Note: I plan to add a report summarising the differences in fuel efficiency fro
 
 _Note: most dependant on area and whether I was on a motorway specifically. There is a non-motorway spike from putting in Supreme fuel._
 
+![](images/fuel_prices.png)
+
 ### Fuel Efficiency
 
-![](images/fuel_prices.png)
+_Note: some of the categories do not have much data, so this does not paint the whole picture._
+
 ![](images/fuel_efficiency_by_roof_racks.png)
 ![](images/fuel_efficiency_by_fuel_type.png)
 ![](images/fuel_efficiency_by_driving_style.png)
