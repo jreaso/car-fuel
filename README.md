@@ -10,3 +10,21 @@ This repository contains a very small dataset `fuel.csv` which I created myself 
 The dataset will be periodically updatedfor as long as I continue to keep records.
 
 _Note: I plan to add a report summarising the differences in fuel efficiency from different driving styles, when the roof racks are on/off and what fuel type was used, but I am waiting for more data._
+
+## Graphs Produced
+
+### Mileage
+
+![](images/mileage.png)
+![](images/mileage_colored_by_driving_style.png)
+
+### Fuel Prices
+
+_Note: most dependant on area and whether I was on a motorway specifically. There is a non-motorway spike from putting in Supreme fuel._
+
+### Fuel Efficiency
+
+![](images/fuel_prices.png)
+![](images/fuel_efficiency_by_roof_racks.png)
+![](images/fuel_efficiency_by_fuel_type.png)
+![](images/fuel_efficiency_by_driving_style.png)
